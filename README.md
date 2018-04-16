@@ -1,3 +1,3 @@
 # hello-world
-Testing my first repository on github
-Hi This is Shagufta testing her first repository & branches
+Testing my repository on my new github
+Hi This is Shagufta testing her first repository & branches with the new account
